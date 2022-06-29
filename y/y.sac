@@ -1,0 +1,7 @@
+module y;
+
+int return_ten() {
+	return 10;
+}
+
+export all;

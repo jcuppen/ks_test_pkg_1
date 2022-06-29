@@ -1,0 +1,7 @@
+module x;
+
+int return_one() {
+	return 1;
+}
+
+export all;
